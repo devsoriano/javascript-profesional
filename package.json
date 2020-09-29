@@ -16,5 +16,6 @@
   },
   "browserlist": [
     "last 1 Chrome version"
-  ]
+  ],
+  "dependencies": {}
 }
